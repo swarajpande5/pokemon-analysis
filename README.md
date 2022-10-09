@@ -4,6 +4,7 @@ This data science mini-project is performed on the Kaggle's [The Complete Pokemo
 <br>
 The information contained in this dataset include Base Stats, Performance against other types, Height, Weight, Classification, Egg Steps, Experience Points, Abilities, etc. 
 <br> 
+Some queries are solved in the project, using the methods of data science.
 <br>
 <br>
 <br>
